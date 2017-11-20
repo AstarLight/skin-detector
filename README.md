@@ -1,5 +1,5 @@
 # skin-detector
-用opencv写的一个人的皮肤检测器，里面封装了以下6种主流的皮肤检测算法：
+用opencv写的一个皮肤检测器，里面封装了以下6种主流的皮肤检测算法：
 
 1. RGB color space
 2. Ycrcb之cr分量+otsu阈值化
